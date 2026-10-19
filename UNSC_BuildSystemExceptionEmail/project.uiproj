@@ -1,0 +1,6 @@
+{
+  "Name": "UNSC_BuildSystemExceptionEmail",
+  "ProjectType": "Process",
+  "Description": "System Error Handling and Email send",
+  "MainFile": "Main.xaml"
+}
